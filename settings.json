@@ -1,0 +1,6 @@
+{
+    "token": "TON TOEKN",
+	"originalGuildId": "ID DE TON SERVEUR",
+    "newGuildId": "ID DU SERVEUR A COPIER",
+    "newGuildAdminRoleId": "ID DUN ROLE ADMIN SUR TON SERVEUR"
+}
